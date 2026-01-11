@@ -94,6 +94,6 @@
 
 
 ## 📇 Ссылки
-Репозиторий на GitHub: 
+Репозиторий на GitHub: https://github.com/qwertq104-alt/Final-work-Financial-Planner-.git
 
 
